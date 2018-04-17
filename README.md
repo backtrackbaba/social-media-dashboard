@@ -1,2 +1,1 @@
-# social-media-dashboard
-Social Media Dashboard
+Check out http://smashing.github.io/smashing for more information.
