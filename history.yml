@@ -1,1 +1,8 @@
---- {}
+---
+valuation: "data: {\"current\":51,\"last\":56,\"id\":\"valuation\",\"updatedAt\":1524008667212}\n\n"
+karma: "data: {\"current\":185783,\"last\":35070,\"id\":\"karma\",\"updatedAt\":1524008667213}\n\n"
+synergy: "data: {\"value\":65,\"id\":\"synergy\",\"updatedAt\":1524008667213}\n\n"
+buzzwords: "data: {\"items\":[{\"label\":\"Leverage\",\"value\":6},{\"label\":\"Streamlininess\",\"value\":26},{\"label\":\"Web
+  2.0\",\"value\":24},{\"label\":\"Synergy\",\"value\":17},{\"label\":\"Exit strategy\",\"value\":6},{\"label\":\"Enterprise\",\"value\":4},{\"label\":\"Paradigm
+  shift\",\"value\":25},{\"label\":\"Pivoting\",\"value\":19},{\"label\":\"Turn-key\",\"value\":3}],\"id\":\"buzzwords\",\"updatedAt\":1524008667213}\n\n"
+convergence: "data: {\"points\":[{\"x\":1420,\"y\":21},{\"x\":1421,\"y\":16},{\"x\":1422,\"y\":27},{\"x\":1423,\"y\":27},{\"x\":1424,\"y\":39},{\"x\":1425,\"y\":30},{\"x\":1426,\"y\":34},{\"x\":1427,\"y\":36},{\"x\":1428,\"y\":31},{\"x\":1429,\"y\":11}],\"id\":\"convergence\",\"updatedAt\":1524008666007}\n\n"
